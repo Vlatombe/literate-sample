@@ -5,4 +5,4 @@ A sample project illustrating Literate plugin for Jenkins
 
 To build this project, simply execute the following command
 
-    echo 'Hello $name'
+    echo Hello $name
