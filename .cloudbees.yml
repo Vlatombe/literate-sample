@@ -1,6 +1,6 @@
 environments:
-  - windows
-  - linux
+  - [windows]
+  - [linux]
 build:
   windows: echo Windows
   linux: echo Linux
