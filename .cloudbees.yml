@@ -1,1 +1,6 @@
-build: echo Hello world
+environments:
+  - [windows]
+  - [linux]
+build:
+  windows: echo Windows
+  linux: echo Linux
