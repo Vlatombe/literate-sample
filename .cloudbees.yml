@@ -1,1 +1,1 @@
-build: echo 'Hello world'
+build: echo Hello world
