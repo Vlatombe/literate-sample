@@ -1,1 +1,4 @@
-build: echo Hello world
+environments:
+  - [java-1.8, maven-3.3]
+  - [java-1.7, maven-3.0.5]
+build: mvn -V -B clean verify
