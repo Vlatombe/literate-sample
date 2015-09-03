@@ -2,5 +2,5 @@ environments:
   - [windows]
   - [linux]
 build:
-  windows: echo Windows
-  linux: echo Linux
+  windows: echo JUC on Windows
+  linux: echo JUC on Linux
