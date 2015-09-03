@@ -6,3 +6,9 @@ A sample project illustrating Literate plugin for Jenkins
 To build this project, simply execute the following command
 
     echo 'Hello World'
+    
+# Promotion
+
+This demonstrates a promotion step
+
+    echo Promotion
